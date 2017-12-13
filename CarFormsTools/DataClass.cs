@@ -28,7 +28,8 @@ namespace CarFormsTools
                 Tips = str;
             }
         }
-        
+            
+
 
         private readonly StringBuilder _initemp = new StringBuilder(255);
         private readonly InIhandle _inihandle = new InIhandle();
