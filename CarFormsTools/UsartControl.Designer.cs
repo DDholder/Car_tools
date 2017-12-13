@@ -58,7 +58,7 @@
             this.comList.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.comList.Location = new System.Drawing.Point(76, 3);
             this.comList.Name = "comList";
-            this.comList.Size = new System.Drawing.Size(133, 36);
+            this.comList.Size = new System.Drawing.Size(133, 41);
             this.comList.TabIndex = 0;
             this.comList.ThemeName = "MaterialTeal";
             // 
@@ -71,7 +71,7 @@
             this.BaudList.Items.Add(radListDataItem2);
             this.BaudList.Location = new System.Drawing.Point(76, 45);
             this.BaudList.Name = "BaudList";
-            this.BaudList.Size = new System.Drawing.Size(133, 36);
+            this.BaudList.Size = new System.Drawing.Size(133, 41);
             this.BaudList.TabIndex = 1;
             this.BaudList.ThemeName = "MaterialTeal";
             // 
